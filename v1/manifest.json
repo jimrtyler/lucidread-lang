@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "generatedAt": "2026-02-28T00:00:00Z",
+  "cdnBase": "https://jimrtyler.github.io/lucidread-lang/v1",
+  "totalLanguages": 6,
+  "totalWords": 9964,
+  "languages": [
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "words": 1794,
+      "sizeKB": 47.2,
+      "checksum": "4a45f369d88796ab"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "words": 1652,
+      "sizeKB": 38.8,
+      "checksum": "7c18343765d63c56"
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "words": 1304,
+      "sizeKB": 31.3,
+      "checksum": "c2bb89149b73187c"
+    },
+    {
+      "code": "hi",
+      "name": "Hindi",
+      "words": 1794,
+      "sizeKB": 60.2,
+      "checksum": "07c85a6b32b2f9fb"
+    },
+    {
+      "code": "ht",
+      "name": "Haitian Creole",
+      "words": 1626,
+      "sizeKB": 37.1,
+      "checksum": "32b0999ca4f91b47"
+    },
+    {
+      "code": "zh",
+      "name": "Chinese",
+      "words": 1794,
+      "sizeKB": 40.4,
+      "checksum": "bd7171f7b7d677be"
+    }
+  ]
+}
