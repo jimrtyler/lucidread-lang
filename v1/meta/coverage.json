@@ -1,0 +1,534 @@
+{
+  "af": {
+    "total_words": 7555,
+    "from_wiktionary": 7555,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 171.6
+  },
+  "am": {
+    "total_words": 1917,
+    "from_wiktionary": 1917,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 50.2
+  },
+  "ar": {
+    "total_words": 22194,
+    "from_wiktionary": 20400,
+    "from_tapspeak": 1794,
+    "overlap_tapspeak_wins": 1157,
+    "file_size_kb": 758.4
+  },
+  "az": {
+    "total_words": 11371,
+    "from_wiktionary": 11371,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 268.4
+  },
+  "bg": {
+    "total_words": 33164,
+    "from_wiktionary": 33164,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 1077.7
+  },
+  "bn": {
+    "total_words": 7175,
+    "from_wiktionary": 7175,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 261.3
+  },
+  "ca": {
+    "total_words": 33969,
+    "from_wiktionary": 33969,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 826.0
+  },
+  "cs": {
+    "total_words": 31228,
+    "from_wiktionary": 31228,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 773.2
+  },
+  "cy": {
+    "total_words": 12795,
+    "from_wiktionary": 12795,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 298.3
+  },
+  "da": {
+    "total_words": 24269,
+    "from_wiktionary": 24269,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 584.7
+  },
+  "de": {
+    "total_words": 64769,
+    "from_wiktionary": 64769,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 1712.3
+  },
+  "el": {
+    "total_words": 29724,
+    "from_wiktionary": 29724,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 1011.9
+  },
+  "es": {
+    "total_words": 59797,
+    "from_wiktionary": 58145,
+    "from_tapspeak": 1652,
+    "overlap_tapspeak_wins": 1285,
+    "file_size_kb": 1546.9
+  },
+  "et": {
+    "total_words": 13129,
+    "from_wiktionary": 13129,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 310.3
+  },
+  "eu": {
+    "total_words": 6290,
+    "from_wiktionary": 6290,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 146.1
+  },
+  "fa": {
+    "total_words": 13706,
+    "from_wiktionary": 13706,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 374.9
+  },
+  "fi": {
+    "total_words": 68814,
+    "from_wiktionary": 68814,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 1901.9
+  },
+  "fr": {
+    "total_words": 68104,
+    "from_wiktionary": 66800,
+    "from_tapspeak": 1304,
+    "overlap_tapspeak_wins": 986,
+    "file_size_kb": 1804.7
+  },
+  "fy": {
+    "total_words": 2839,
+    "from_wiktionary": 2839,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 61.2
+  },
+  "ga": {
+    "total_words": 21393,
+    "from_wiktionary": 21393,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 538.8
+  },
+  "gd": {
+    "total_words": 8508,
+    "from_wiktionary": 8508,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 195.4
+  },
+  "gl": {
+    "total_words": 19844,
+    "from_wiktionary": 19844,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 472.4
+  },
+  "haw": {
+    "total_words": 2143,
+    "from_wiktionary": 2143,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 43.9
+  },
+  "he": {
+    "total_words": 15753,
+    "from_wiktionary": 15753,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 489.8
+  },
+  "hi": {
+    "total_words": 16276,
+    "from_wiktionary": 14482,
+    "from_tapspeak": 1794,
+    "overlap_tapspeak_wins": 1046,
+    "file_size_kb": 580.1
+  },
+  "hr": {
+    "total_words": 1,
+    "from_wiktionary": 1,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 0.0
+  },
+  "ht": {
+    "total_words": 2889,
+    "from_wiktionary": 1263,
+    "from_tapspeak": 1626,
+    "overlap_tapspeak_wins": 409,
+    "file_size_kb": 56.4
+  },
+  "hu": {
+    "total_words": 34110,
+    "from_wiktionary": 34110,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 882.6
+  },
+  "hy": {
+    "total_words": 17460,
+    "from_wiktionary": 17460,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 546.0
+  },
+  "id": {
+    "total_words": 14872,
+    "from_wiktionary": 14872,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 357.7
+  },
+  "ig": {
+    "total_words": 336,
+    "from_wiktionary": 336,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 6.6
+  },
+  "is": {
+    "total_words": 14664,
+    "from_wiktionary": 14664,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 365.4
+  },
+  "it": {
+    "total_words": 49309,
+    "from_wiktionary": 49309,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 1270.5
+  },
+  "ja": {
+    "total_words": 36197,
+    "from_wiktionary": 36197,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 980.8
+  },
+  "ka": {
+    "total_words": 18181,
+    "from_wiktionary": 18181,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 793.4
+  },
+  "kk": {
+    "total_words": 10165,
+    "from_wiktionary": 10165,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 307.7
+  },
+  "km": {
+    "total_words": 7341,
+    "from_wiktionary": 7341,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 269.8
+  },
+  "ko": {
+    "total_words": 24822,
+    "from_wiktionary": 24822,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 622.3
+  },
+  "lb": {
+    "total_words": 2976,
+    "from_wiktionary": 2976,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 64.7
+  },
+  "lo": {
+    "total_words": 4643,
+    "from_wiktionary": 4643,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 152.9
+  },
+  "lt": {
+    "total_words": 10917,
+    "from_wiktionary": 10917,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 265.0
+  },
+  "lv": {
+    "total_words": 11060,
+    "from_wiktionary": 11060,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 261.0
+  },
+  "mi": {
+    "total_words": 15013,
+    "from_wiktionary": 15013,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 335.6
+  },
+  "mk": {
+    "total_words": 16898,
+    "from_wiktionary": 16898,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 522.8
+  },
+  "mn": {
+    "total_words": 6261,
+    "from_wiktionary": 6261,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 184.5
+  },
+  "mr": {
+    "total_words": 7532,
+    "from_wiktionary": 7532,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 266.0
+  },
+  "ms": {
+    "total_words": 11643,
+    "from_wiktionary": 11643,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 276.1
+  },
+  "mt": {
+    "total_words": 3833,
+    "from_wiktionary": 3833,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 86.1
+  },
+  "my": {
+    "total_words": 5621,
+    "from_wiktionary": 5621,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 207.8
+  },
+  "ne": {
+    "total_words": 1922,
+    "from_wiktionary": 1922,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 63.4
+  },
+  "nl": {
+    "total_words": 38980,
+    "from_wiktionary": 38980,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 981.3
+  },
+  "no": {
+    "total_words": 6948,
+    "from_wiktionary": 6948,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 157.7
+  },
+  "pl": {
+    "total_words": 56940,
+    "from_wiktionary": 56940,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 1534.6
+  },
+  "pt": {
+    "total_words": 51650,
+    "from_wiktionary": 51650,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 1321.6
+  },
+  "ro": {
+    "total_words": 26293,
+    "from_wiktionary": 26293,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 658.3
+  },
+  "ru": {
+    "total_words": 57141,
+    "from_wiktionary": 57141,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 2143.7
+  },
+  "si": {
+    "total_words": 1826,
+    "from_wiktionary": 1826,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 62.6
+  },
+  "sk": {
+    "total_words": 13919,
+    "from_wiktionary": 13919,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 331.7
+  },
+  "sl": {
+    "total_words": 10966,
+    "from_wiktionary": 10966,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 249.0
+  },
+  "sm": {
+    "total_words": 648,
+    "from_wiktionary": 648,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 12.4
+  },
+  "sq": {
+    "total_words": 8364,
+    "from_wiktionary": 8364,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 181.7
+  },
+  "sv": {
+    "total_words": 40419,
+    "from_wiktionary": 40419,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 1000.5
+  },
+  "sw": {
+    "total_words": 6012,
+    "from_wiktionary": 6012,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 130.9
+  },
+  "ta": {
+    "total_words": 6172,
+    "from_wiktionary": 6172,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 244.5
+  },
+  "te": {
+    "total_words": 5396,
+    "from_wiktionary": 5396,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 197.6
+  },
+  "th": {
+    "total_words": 13016,
+    "from_wiktionary": 13016,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 504.8
+  },
+  "tl": {
+    "total_words": 11475,
+    "from_wiktionary": 11475,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 269.0
+  },
+  "tr": {
+    "total_words": 25423,
+    "from_wiktionary": 25423,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 624.2
+  },
+  "uk": {
+    "total_words": 24749,
+    "from_wiktionary": 24749,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 862.9
+  },
+  "ur": {
+    "total_words": 7147,
+    "from_wiktionary": 7147,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 195.2
+  },
+  "uz": {
+    "total_words": 6647,
+    "from_wiktionary": 6647,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 144.1
+  },
+  "vi": {
+    "total_words": 15700,
+    "from_wiktionary": 15700,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 412.9
+  },
+  "xh": {
+    "total_words": 401,
+    "from_wiktionary": 401,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 8.1
+  },
+  "yo": {
+    "total_words": 1192,
+    "from_wiktionary": 1192,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 28.4
+  },
+  "zh": {
+    "total_words": 2598,
+    "from_wiktionary": 804,
+    "from_tapspeak": 1794,
+    "overlap_tapspeak_wins": 244,
+    "file_size_kb": 51.4
+  },
+  "zu": {
+    "total_words": 848,
+    "from_wiktionary": 848,
+    "from_tapspeak": 0,
+    "overlap_tapspeak_wins": 0,
+    "file_size_kb": 17.2
+  }
+}

@@ -1,51 +1,541 @@
 {
   "version": 1,
-  "generatedAt": "2026-02-28T00:00:00Z",
+  "generatedAt": "2026-03-04T03:11:36Z",
   "cdnBase": "https://jimrtyler.github.io/lucidread-lang/v1",
-  "totalLanguages": 6,
-  "totalWords": 9964,
+  "totalLanguages": 76,
+  "totalWords": 1366262,
   "languages": [
+    {
+      "code": "af",
+      "name": "Afrikaans",
+      "words": 7555,
+      "sizeKB": 171.6,
+      "checksum": "fc3d8138257df004"
+    },
+    {
+      "code": "am",
+      "name": "Amharic",
+      "words": 1917,
+      "sizeKB": 50.2,
+      "checksum": "d8028317432a6bf1"
+    },
     {
       "code": "ar",
       "name": "Arabic",
-      "words": 1794,
-      "sizeKB": 47.2,
-      "checksum": "4a45f369d88796ab"
+      "words": 22194,
+      "sizeKB": 758.4,
+      "checksum": "c50dbfd399888e77"
+    },
+    {
+      "code": "az",
+      "name": "Azerbaijani",
+      "words": 11371,
+      "sizeKB": 268.4,
+      "checksum": "5ca93758a2a32800"
+    },
+    {
+      "code": "bg",
+      "name": "Bulgarian",
+      "words": 33164,
+      "sizeKB": 1077.7,
+      "checksum": "c1d205025e23180c"
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "words": 7175,
+      "sizeKB": 261.3,
+      "checksum": "c2fe93a947e3f8da"
+    },
+    {
+      "code": "ca",
+      "name": "Catalan",
+      "words": 33969,
+      "sizeKB": 826.0,
+      "checksum": "b231f135cb5631e7"
+    },
+    {
+      "code": "cs",
+      "name": "Czech",
+      "words": 31228,
+      "sizeKB": 773.2,
+      "checksum": "97e0d3db9e9af8eb"
+    },
+    {
+      "code": "cy",
+      "name": "Welsh",
+      "words": 12795,
+      "sizeKB": 298.3,
+      "checksum": "c7a0ea70d6adf3ee"
+    },
+    {
+      "code": "da",
+      "name": "Danish",
+      "words": 24269,
+      "sizeKB": 584.7,
+      "checksum": "f4e483231d392b16"
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "words": 64769,
+      "sizeKB": 1712.3,
+      "checksum": "66ecd79fed1c6bd3"
+    },
+    {
+      "code": "el",
+      "name": "Greek",
+      "words": 29724,
+      "sizeKB": 1011.9,
+      "checksum": "3a82e09e060c168d"
     },
     {
       "code": "es",
       "name": "Spanish",
-      "words": 1652,
-      "sizeKB": 38.8,
-      "checksum": "7c18343765d63c56"
+      "words": 59797,
+      "sizeKB": 1546.9,
+      "checksum": "2d2d0479a0bc8062"
+    },
+    {
+      "code": "et",
+      "name": "Estonian",
+      "words": 13129,
+      "sizeKB": 310.3,
+      "checksum": "7f5f78e9c9cc2747"
+    },
+    {
+      "code": "eu",
+      "name": "Basque",
+      "words": 6290,
+      "sizeKB": 146.1,
+      "checksum": "ccbbe04324e30f5c"
+    },
+    {
+      "code": "fa",
+      "name": "Persian",
+      "words": 13706,
+      "sizeKB": 374.9,
+      "checksum": "0f7879a38cf7c647"
+    },
+    {
+      "code": "fi",
+      "name": "Finnish",
+      "words": 68814,
+      "sizeKB": 1901.9,
+      "checksum": "b46cfdce93a0082a"
     },
     {
       "code": "fr",
       "name": "French",
-      "words": 1304,
-      "sizeKB": 31.3,
-      "checksum": "c2bb89149b73187c"
+      "words": 68104,
+      "sizeKB": 1804.7,
+      "checksum": "ddea63fa31f25bf0"
+    },
+    {
+      "code": "fy",
+      "name": "Frisian",
+      "words": 2839,
+      "sizeKB": 61.2,
+      "checksum": "0d20859c51e9d16b"
+    },
+    {
+      "code": "ga",
+      "name": "Irish",
+      "words": 21393,
+      "sizeKB": 538.8,
+      "checksum": "0945c0fd4f132892"
+    },
+    {
+      "code": "gd",
+      "name": "Scottish Gaelic",
+      "words": 8508,
+      "sizeKB": 195.4,
+      "checksum": "ee9e85063b81dd47"
+    },
+    {
+      "code": "gl",
+      "name": "Galician",
+      "words": 19844,
+      "sizeKB": 472.4,
+      "checksum": "7d7c07a27fa4471b"
+    },
+    {
+      "code": "haw",
+      "name": "Hawaiian",
+      "words": 2143,
+      "sizeKB": 43.9,
+      "checksum": "09bfa5e58e204208"
+    },
+    {
+      "code": "he",
+      "name": "Hebrew",
+      "words": 15753,
+      "sizeKB": 489.8,
+      "checksum": "5bfb865854c47f2c"
     },
     {
       "code": "hi",
       "name": "Hindi",
-      "words": 1794,
-      "sizeKB": 60.2,
-      "checksum": "07c85a6b32b2f9fb"
+      "words": 16276,
+      "sizeKB": 580.1,
+      "checksum": "26d549f052b007dc"
+    },
+    {
+      "code": "hr",
+      "name": "Croatian",
+      "words": 1,
+      "sizeKB": 0.0,
+      "checksum": "a38fce644b03f673"
     },
     {
       "code": "ht",
       "name": "Haitian Creole",
-      "words": 1626,
-      "sizeKB": 37.1,
-      "checksum": "32b0999ca4f91b47"
+      "words": 2889,
+      "sizeKB": 56.4,
+      "checksum": "3cb2b78ef410ff0c"
+    },
+    {
+      "code": "hu",
+      "name": "Hungarian",
+      "words": 34110,
+      "sizeKB": 882.6,
+      "checksum": "ffc20d4c62cff04f"
+    },
+    {
+      "code": "hy",
+      "name": "Armenian",
+      "words": 17460,
+      "sizeKB": 546.0,
+      "checksum": "80f1f328c3060dab"
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "words": 14872,
+      "sizeKB": 357.7,
+      "checksum": "bde286a8feacdfdb"
+    },
+    {
+      "code": "ig",
+      "name": "Igbo",
+      "words": 336,
+      "sizeKB": 6.6,
+      "checksum": "7fe24ac0f8e0be81"
+    },
+    {
+      "code": "is",
+      "name": "Icelandic",
+      "words": 14664,
+      "sizeKB": 365.4,
+      "checksum": "6ef981373ceb938a"
+    },
+    {
+      "code": "it",
+      "name": "Italian",
+      "words": 49309,
+      "sizeKB": 1270.5,
+      "checksum": "a04e5f4ff3870a17"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "words": 36197,
+      "sizeKB": 980.8,
+      "checksum": "11b1b71846c74dca"
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "words": 18181,
+      "sizeKB": 793.4,
+      "checksum": "7f2ed17efe6b5791"
+    },
+    {
+      "code": "kk",
+      "name": "Kazakh",
+      "words": 10165,
+      "sizeKB": 307.7,
+      "checksum": "c5060b2711b60ca4"
+    },
+    {
+      "code": "km",
+      "name": "Khmer",
+      "words": 7341,
+      "sizeKB": 269.8,
+      "checksum": "1d0e372325c4870d"
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "words": 24822,
+      "sizeKB": 622.3,
+      "checksum": "7d9c0993e751463c"
+    },
+    {
+      "code": "lb",
+      "name": "Luxembourgish",
+      "words": 2976,
+      "sizeKB": 64.7,
+      "checksum": "d8e7ef5085619f01"
+    },
+    {
+      "code": "lo",
+      "name": "Lao",
+      "words": 4643,
+      "sizeKB": 152.9,
+      "checksum": "c8bf008d2523edf2"
+    },
+    {
+      "code": "lt",
+      "name": "Lithuanian",
+      "words": 10917,
+      "sizeKB": 265.0,
+      "checksum": "585f4fcf8466d37c"
+    },
+    {
+      "code": "lv",
+      "name": "Latvian",
+      "words": 11060,
+      "sizeKB": 261.0,
+      "checksum": "2f5140390d24df62"
+    },
+    {
+      "code": "mi",
+      "name": "Maori",
+      "words": 15013,
+      "sizeKB": 335.6,
+      "checksum": "d5628c7fb73cbf26"
+    },
+    {
+      "code": "mk",
+      "name": "Macedonian",
+      "words": 16898,
+      "sizeKB": 522.8,
+      "checksum": "90b311044c91a383"
+    },
+    {
+      "code": "mn",
+      "name": "Mongolian",
+      "words": 6261,
+      "sizeKB": 184.5,
+      "checksum": "6896a96987583fa5"
+    },
+    {
+      "code": "mr",
+      "name": "Marathi",
+      "words": 7532,
+      "sizeKB": 266.0,
+      "checksum": "43d090964a2f170e"
+    },
+    {
+      "code": "ms",
+      "name": "Malay",
+      "words": 11643,
+      "sizeKB": 276.1,
+      "checksum": "652d3e08f0248848"
+    },
+    {
+      "code": "mt",
+      "name": "Maltese",
+      "words": 3833,
+      "sizeKB": 86.1,
+      "checksum": "8cb3187ce2b69a64"
+    },
+    {
+      "code": "my",
+      "name": "Burmese",
+      "words": 5621,
+      "sizeKB": 207.8,
+      "checksum": "28adb22a9449579e"
+    },
+    {
+      "code": "ne",
+      "name": "Nepali",
+      "words": 1922,
+      "sizeKB": 63.4,
+      "checksum": "2ce2e68d48a2f488"
+    },
+    {
+      "code": "nl",
+      "name": "Dutch",
+      "words": 38980,
+      "sizeKB": 981.3,
+      "checksum": "caa3459b61c80e41"
+    },
+    {
+      "code": "no",
+      "name": "Norwegian",
+      "words": 6948,
+      "sizeKB": 157.7,
+      "checksum": "ed445431a10feeab"
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "words": 56940,
+      "sizeKB": 1534.6,
+      "checksum": "b96ce6b8f57828fc"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese",
+      "words": 51650,
+      "sizeKB": 1321.6,
+      "checksum": "bc1cceb2ddd08e85"
+    },
+    {
+      "code": "ro",
+      "name": "Romanian",
+      "words": 26293,
+      "sizeKB": 658.3,
+      "checksum": "f80a085cfbfa88a1"
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "words": 57141,
+      "sizeKB": 2143.7,
+      "checksum": "a3a3611832ed0d97"
+    },
+    {
+      "code": "si",
+      "name": "Sinhala",
+      "words": 1826,
+      "sizeKB": 62.6,
+      "checksum": "a198ff786a23efd3"
+    },
+    {
+      "code": "sk",
+      "name": "Slovak",
+      "words": 13919,
+      "sizeKB": 331.7,
+      "checksum": "31576dbf8a5ea84f"
+    },
+    {
+      "code": "sl",
+      "name": "Slovenian",
+      "words": 10966,
+      "sizeKB": 249.0,
+      "checksum": "6fe174f1d45b16f4"
+    },
+    {
+      "code": "sm",
+      "name": "Samoan",
+      "words": 648,
+      "sizeKB": 12.4,
+      "checksum": "f4b6e0af4cb1f2cd"
+    },
+    {
+      "code": "sq",
+      "name": "Albanian",
+      "words": 8364,
+      "sizeKB": 181.7,
+      "checksum": "ea8913e372c6b116"
+    },
+    {
+      "code": "sv",
+      "name": "Swedish",
+      "words": 40419,
+      "sizeKB": 1000.5,
+      "checksum": "31a238e193285ac9"
+    },
+    {
+      "code": "sw",
+      "name": "Swahili",
+      "words": 6012,
+      "sizeKB": 130.9,
+      "checksum": "641b1a9f286e5745"
+    },
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "words": 6172,
+      "sizeKB": 244.5,
+      "checksum": "04047e549f9f47b6"
+    },
+    {
+      "code": "te",
+      "name": "Telugu",
+      "words": 5396,
+      "sizeKB": 197.6,
+      "checksum": "29fdacd69a1a057c"
+    },
+    {
+      "code": "th",
+      "name": "Thai",
+      "words": 13016,
+      "sizeKB": 504.8,
+      "checksum": "7106fb6031a32f68"
+    },
+    {
+      "code": "tl",
+      "name": "Filipino",
+      "words": 11475,
+      "sizeKB": 269.0,
+      "checksum": "b04a82d35047f463"
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "words": 25423,
+      "sizeKB": 624.2,
+      "checksum": "1b571b5aefccceb4"
+    },
+    {
+      "code": "uk",
+      "name": "Ukrainian",
+      "words": 24749,
+      "sizeKB": 862.9,
+      "checksum": "f41263886d9f44fb"
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "words": 7147,
+      "sizeKB": 195.2,
+      "checksum": "7bd374b7e3d1f29b"
+    },
+    {
+      "code": "uz",
+      "name": "Uzbek",
+      "words": 6647,
+      "sizeKB": 144.1,
+      "checksum": "5c7ed8078da023b6"
+    },
+    {
+      "code": "vi",
+      "name": "Vietnamese",
+      "words": 15700,
+      "sizeKB": 412.9,
+      "checksum": "aab665e6e88e1b9f"
+    },
+    {
+      "code": "xh",
+      "name": "Xhosa",
+      "words": 401,
+      "sizeKB": 8.1,
+      "checksum": "2ecca7322834b3d1"
+    },
+    {
+      "code": "yo",
+      "name": "Yoruba",
+      "words": 1192,
+      "sizeKB": 28.4,
+      "checksum": "96501e950474c594"
     },
     {
       "code": "zh",
       "name": "Chinese",
-      "words": 1794,
-      "sizeKB": 40.4,
-      "checksum": "bd7171f7b7d677be"
+      "words": 2598,
+      "sizeKB": 51.4,
+      "checksum": "5a5ae87534bc9d82"
+    },
+    {
+      "code": "zu",
+      "name": "Zulu",
+      "words": 848,
+      "sizeKB": 17.2,
+      "checksum": "bf7ae4cac38986f5"
     }
   ]
 }
